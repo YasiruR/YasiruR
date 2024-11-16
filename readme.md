@@ -9,7 +9,7 @@
     - PhD in Computer Science (WIP 🚧) - University of Navarra, Spain 🇪🇸
 - 😻 Interested in decentralized identity, blockchain with Hyperledger ecosystem, secure and trustful communication, distributed systems and event-driven architecture
 
-### Github Activities
+### GitHub Activities ⌨
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YasiruR&theme=swift)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YasiruR&theme=swift)
