@@ -2,21 +2,18 @@
 
 ### Backstory 💁‍♂️
 
-- 👨 Who am I?
-    - A researcher and a software engineer in love with designing and delivering solutions with
-      adequate quality of code
+- 👨 A researcher and a software engineer in love with designing and delivering solutions with adequate quality of code
 - 🎓 Education
     - BSc (Hons) in Computer Science & Engineering - University of Moratuwa, Sri Lanka 🇱🇰
     - MSc in Computer Science - UiT The Arctic University, Norway 🇳🇴
     - PhD in Computer Science (WIP 🚧) - University of Navarra, Spain 🇪🇸
-- 👨‍💼 Professional career
-    - 4 years in the industry as a software engineer with experience in Golang, React.js,
-      Kafka, ZeroMQ, MQTT, Docker, Kubernetes, Cloud Platforms, CICD tools, Prometheus, Grafana
-- 😻 Interested in
-    - Decentralized identity
-    - Blockchain with Hyperledger ecosystem
-    - Secure and trustful communication
-    - Distributed systems and Event-driven architecture
+- 😻 Interested in decentralized identity, blockchain with Hyperledger ecosystem, secure and trustful communication, distributed systems and event-driven architecture
+
+### Github Activities
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YasiruR&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YasiruR&theme=swift)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YasiruR&theme=nord_bright)
 
 ### Projects that you may find useful here 🥸
 
