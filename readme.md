@@ -11,9 +11,9 @@
 
 ### Github Activities
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YasiruR&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YasiruR&theme=swift)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YasiruR&theme=swift)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YasiruR&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YasiruR&theme=swift)
 
 ### Projects that you may find useful here 🥸
 
